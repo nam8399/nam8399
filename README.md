@@ -7,7 +7,9 @@
 
 ![Junsik's GitHub stats](https://github-readme-stats.vercel.app/api?username=nam8399&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nam8399)](https://github.com/nam8399/github-readme-stats)
 
+  
 # 💪Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
